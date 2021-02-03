@@ -2,13 +2,13 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=bjacob-56&label=Profile%20views&color=0e75b6&style=flat" alt="bjacob-56" /> </p>
 
-- 🔭 I’m currently working on **ft_services**
-
 - 🌱 I’m currently learning **at [@42School](https://github.com/42School)**
+
+- 🔭 I’m currently working on **ft_services**
 
 - 👨‍💻 All of my projects are available [here](https://github.com/bjacob-56?tab=repositories)
 
-- 📫 How to reach me **bricejacob56@gmail.com**
+- 📫 How to reach me : **bricejacob56@gmail.com**
 
 
 <h3 align="left">42 Projects:</h3>
