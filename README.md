@@ -1,4 +1,4 @@
-<h1 align="center">Hello, I'm Brice JACOB and this is my git repo</h1>
+<h2 align="center">Hello, I'm Brice Jacob and this is my git repo</h2>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=bjacob-56&label=Profile%20views&color=0e75b6&style=flat" alt="bjacob-56" /> </p>
 
