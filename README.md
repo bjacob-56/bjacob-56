@@ -18,7 +18,7 @@
 | [libft](https://github.com/bjacob-56/libft) | Done |
 | [get_next_line](https://github.com/bjacob-56/get_next_line) | Done |
 | [ft_printf](https://github.com/bjacob-56/ft_printf) | Done |
-| [netwhat](https://github.com/bjacob-56/netwhat) | Done |
+| netwhat | Done |
 | [cub3d](https://github.com/bjacob-56/cub3d) | Done |
 | [ft_server](https://github.com/bjacob-56/ft_server) | Done |
 | [libasm](https://github.com/bjacob-56/libasm) | Done |
