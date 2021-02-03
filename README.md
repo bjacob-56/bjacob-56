@@ -1,4 +1,4 @@
-<h2 align="center">Hello, I'm Brice Jacob and this is my git repo</h2>
+<h2 align="center">Hello, I'm Brice Jacob. You can find here my programming projects.</h2>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=bjacob-56&label=Profile%20views&color=0e75b6&style=flat" alt="bjacob-56" /> </p>
 
@@ -8,7 +8,8 @@
 
 - 👨‍💻 All of my projects are available [here](https://github.com/bjacob-56?tab=repositories)
 
-- 📫 How to reach me **bjacob@student.42lyon.fr**
+- 📫 How to reach me **bricejacob56@gmail.com**
+
 
 <h3 align="left">42 Projects:</h3>
 
