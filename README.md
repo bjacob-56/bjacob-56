@@ -14,15 +14,15 @@
 
 | Project | State |
 |---------|---------|
-| [libft](https://github.com/bjacob-56FR/libft) | Done |
-| [get_next_line](https://github.com/bjacob-56FR/get_next_line) | Done |
-| [ft_printf](https://github.com/bjacob-56FR/ft_printf) | Done |
-| [netwhat](https://github.com/bjacob-56FR/netwhat) | Done |
-| [ft_server](https://github.com/bjacob-56FR/ft_server) | Done |
-| [cub3d](https://github.com/bjacob-56FR/cub3d) | Done |
-| [libasm](https://github.com/bjacob-56FR/libasm) | Done |
-| [minishell](https://github.com/bjacob-56FR/minishell) | Done |
-| [ft_services](https://github.com/bjacob-56FR/ft_services) | In progress |
+| [libft](https://github.com/bjacob-56/libft) | Done |
+| [get_next_line](https://github.com/bjacob-56/get_next_line) | Done |
+| [ft_printf](https://github.com/bjacob-56/ft_printf) | Done |
+| [netwhat](https://github.com/bjacob-56/netwhat) | Done |
+| [cub3d](https://github.com/bjacob-56/cub3d) | Done |
+| [ft_server](https://github.com/bjacob-56/ft_server) | Done |
+| [libasm](https://github.com/bjacob-56/libasm) | Done |
+| [minishell](https://github.com/bjacob-56/minishell) | Done |
+| [ft_services](https://github.com/bjacob-56/ft_services) | In progress |
 
 <h3 align="center">Stats:</h3>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bjacob-56fr&show_icons=true&locale=en&layout=compact" alt="bjacob-56fr" height="30%" width="29%"/>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bjacob-56fr&show_icons=true&locale=en" alt="bjacob-56fr" height="35%" width="35%" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bjacob-56&show_icons=true&locale=en&layout=compact" alt="bjacob-56" height="30%" width="29%"/>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bjacob-56&show_icons=true&locale=en" alt="bjacob-56" height="35%" width="35%" /></p>
