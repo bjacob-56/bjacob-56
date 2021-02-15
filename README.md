@@ -23,7 +23,8 @@
 | [ft_server](https://github.com/bjacob-56/ft_server) | Done |
 | [libasm](https://github.com/bjacob-56/libasm) | Done |
 | [minishell](https://github.com/bjacob-56/minishell) | Done |
-| [ft_services](https://github.com/bjacob-56/ft_services) | In progress |
+| [ft_services](https://github.com/bjacob-56/ft_services) | Done |
+| [philosophers](https://github.com/bjacob-56/philosophers) | In progress |
 
 <h3 align="center">Stats:</h3>
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bjacob-56&show_icons=true&locale=en&layout=compact" alt="bjacob-56" height="30%" width="29%"/>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bjacob-56&show_icons=true&locale=en" alt="bjacob-56" height="35%" width="35%" /></p>
