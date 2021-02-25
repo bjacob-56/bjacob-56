@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **at [@42School](https://github.com/42School)**
 
-- 🔭 I’m currently working on **philosophers**
+- 🔭 I’m currently working on **CPP**
 
 - 👨‍💻 All of my projects are available [here](https://github.com/bjacob-56?tab=repositories)
 
