@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **at [@42School](https://github.com/42School)**
 
-- 🔭 I’m currently working on **CPP**
+- 🔭 I’m currently working on **ft_containers**
 
 - 👨‍💻 All of my projects are available [here](https://github.com/bjacob-56?tab=repositories)
 
@@ -25,7 +25,9 @@
 | [minishell](https://github.com/bjacob-56/minishell) | Done |
 | [ft_services](https://github.com/bjacob-56/ft_services) | Done |
 | [philosophers](https://github.com/bjacob-56/philosophers) | Done |
-| [CPP](https://github.com/bjacob-56/CPP) | In progress |
+| [CPP](https://github.com/bjacob-56/CPP) | Done |
+| [push_swap](https://github.com/bjacob-56/push_swap) | Done |
+| [ft_containers](https://github.com/bjacob-56/ft_containers) | In progress |
 
 <h3 align="center">Stats:</h3>
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bjacob-56&show_icons=true&locale=en&layout=compact" alt="bjacob-56" height="30%" width="29%"/>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bjacob-56&show_icons=true&locale=en" alt="bjacob-56" height="35%" width="35%" /></p>
