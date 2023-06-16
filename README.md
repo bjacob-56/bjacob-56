@@ -6,9 +6,6 @@
 
 - 👨‍💻 All of my projects are available [here](https://github.com/bjacob-56?tab=repositories)
 
-- 📫 How to reach me : **bricejacob56@gmail.com**
-
-
 <h3 align="left">42 Projects:</h3>
 
 | Project | State |
